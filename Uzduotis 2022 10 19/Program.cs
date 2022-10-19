@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// triangle C length
+
+
+
+double triangleC = (double) Math.Sqrt(15 * 15 + 10*10 );
+
+Console.WriteLine(triangleC);
+

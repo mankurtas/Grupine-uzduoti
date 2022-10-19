@@ -19,10 +19,10 @@ Console.WriteLine(triangleC);
 
 
 
-//long sum = area + earthVolume + triangleC;
-//long average = sum /3;
+long sum = area + earthVolume + triangleC;
+long average = sum / 3;
 
 
-//Console.WriteLine(sum);
+Console.WriteLine(sum);
 
-//Console.WriteLine(average);
+Console.WriteLine(average);

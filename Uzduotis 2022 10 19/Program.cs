@@ -1,5 +1,5 @@
-﻿int area;
+﻿float area;
 double radius = 6371;
 
-area = (int)(Math.PI * Math.Pow(radius, 2));
+area = ((float)(4 * Math.PI * radius * radius));
 Console.WriteLine($"Earth's area is: {area} km");
